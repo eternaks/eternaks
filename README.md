@@ -1,4 +1,5 @@
-## Hi there 👋
+## Interests in machine learning and systems
+
 
 <!--
 **eternaks/eternaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
